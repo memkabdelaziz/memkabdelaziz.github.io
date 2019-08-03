@@ -112,6 +112,8 @@ author:
   bio              : "Personal Portfolio"
   location         : "London, United Kingdom"
   email            : "m.abdelaziz16@imperial.ac.uk"
+  github           : "memkabdelaziz"
+  linkedin         : "Mohamed E. M. K. Abdelaziz"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
