@@ -7,12 +7,12 @@ classes: wide
 ---
 
 # Research Papers
-*Controlling the Stormram 2: An MRI-compatible robotic system for breast biopsy*\
-**MEMK Abdelaziz**, V Groenhuis, J Veltman, F Siepel, S Stramigioli\
+*Controlling the Stormram 2: An MRI-compatible robotic system for breast biopsy*
+**M.E.M.K Abdelaziz**, V. Groenhuis, J. Veltman, F. J. Siepel, S. Stramigioli
 *2017 IEEE International Conference on Robotics and Automation (ICRA), 1746-1753*
 
-*Design and Kinematics Characterization of a Laser-Profiled Continuum Manipulator for the Guidance of Bronchoscopic Instruments*\
-N Liu, **MEMK Abdelaziz**, M Shen, GZ Yang\
-*2017 IEEE International Conference on Robotics and Automation (ICRA), 1746-1753*
+*Design and Kinematics Characterization of a Laser-Profiled Continuum Manipulator for the Guidance of Bronchoscopic Instruments*
+N. Liu, **M.E.M.K Abdelaziz**, M. Shen, G. Z. Yang
+*2018 IEEE International Conference on Robotics and Automation (ICRA), 25-31*
 
 ## Dissertations
