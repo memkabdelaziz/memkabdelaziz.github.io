@@ -13,6 +13,10 @@ Endovascular Interventions: A Pre-Clinical Study*](/images/IROS19-website-accept
 **M.E.M.K. Abdelaziz**, D. Kundrat, M. Pupillo, G. Dagnino, T.M.Y. Kwok, W. Chi, V. Groenhuis, F.J. Siepel, C. Riga, S. Stramigioli, G.Z. Yang <br />
 *2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)* **[Accepted]**
 
+[*Design, Fabrication, and Testing a Semiautomatic Sewing Device for Personalized Stent Graft Manufacturing*] (https://ieeexplore.ieee.org/abstract/document/8625557)
+Y. Hu, L. Zhang, C.A. Seneci, W. Li, **M.E.M.K. Abdelaziz**, G.Z. Yang
+*IEEE/ASME Transactions on Mechatronics 24 (2), 517-526*
+
 ### 2018
 [*Design and Kinematics Characterization of a Laser-Profiled Continuum Manipulator for the Guidance of Bronchoscopic Instruments*](https://ieeexplore.ieee.org/abstract/document/8460849) <br />
 N. Liu, **M.E.M.K Abdelaziz**, M. Shen, G.Z. Yang <br />
