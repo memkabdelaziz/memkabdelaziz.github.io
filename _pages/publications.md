@@ -3,6 +3,7 @@ layout: archive
 permalink: /publications/
 title: "Publications"
 author-profile: true
+classes: wide
 ---
 
 # Research Papers
