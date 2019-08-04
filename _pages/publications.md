@@ -8,7 +8,7 @@ classes: wide
 
 # Research Papers
 [*Toward a Versatile Robotic Platform for Fluoroscopy and MRI-Guided
-Endovascular Interventions: A Pre-Clinical Study*](https://www.dropbox.com/s/1m8cq6u1u1jjodh/IROS19_1894_FI.pdf?dl=0) <br />
+Endovascular Interventions: A Pre-Clinical Study*](/images/IROS19-website-accepted.pdf) <br />
 **M.E.M.K. Abdelaziz**, D. Kundrat, M. Pupillo, G. Dagnino, T.M.Y. Kwok, W. Chi, V. Groenhuis, F.J. Siepel, C. Riga, S. Stramigioli, G.Z. Yang <br />
 *2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)* **[Accepted]**
 
