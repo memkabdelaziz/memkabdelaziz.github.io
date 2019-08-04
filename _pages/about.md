@@ -1,6 +1,7 @@
 ---
 title: "About"
 permalink: /about/
+classes: wide
 ---
 
 I’m a PhD student at the Hamlyn Centre for Robotic Surgery, Imperial College London, United Kingdom. My main research is in MR Safe surgical instruments and MR Safe robotics.
