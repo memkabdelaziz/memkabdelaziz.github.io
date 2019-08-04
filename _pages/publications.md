@@ -5,4 +5,6 @@ title: "Publications"
 author-profile: true
 header:
   image: "/images/robot.jpg"
+title: "Research Papers"
+title: "Dissertations"
 ---
