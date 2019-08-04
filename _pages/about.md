@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/_CJW8409"
+  image: "/images/robot.jpg"
 ---
 
 I am currently pursuing my PhD at the Hamlyn Centre for Robotic Surgery, Imperial College London.

@@ -1,8 +1,8 @@
 ---
 layout: archive
 permalink: /publications/
-title:"Publications"
+title: "Publications"
 author_profile: true
 header:
-  image: "/images/_CJW8409"
+  image: "/images/robot.jpg"
 ---
