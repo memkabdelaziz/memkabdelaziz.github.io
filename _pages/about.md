@@ -4,4 +4,8 @@ permalink: /about/
 
 ---
 
-Mohamed E. M. K. Abdelaziz received the B.Sc. (Highest Hons.) degree in mechatronics engineering from the German University in Cairo, Cairo, Egypt, in 2014 and the M.Sc. (cum laude) degree in robotics and mechatronics from the University of Twente, Enschede, The Netherlands, in 2016. He is currently working toward his Ph.D. in MR safe robotics at the Hamlyn Centre for Robotic Surgery, Imperial College London, London, U.K.
+I’m a PhD student at the Hamlyn Centre for Robotic Surgery, Imperial College London, United Kingdom. My main research is in MR Safe surgical instruments and MR Safe robotics.
+
+I received my M.Sc. in Systems and Control: Robotics and Mechatronics (Cum Laude) in September 2016 at the University of Twente, the Netherlands. My master thesis was focused on MR Safe robotics for MRI-Guided Breast biopsy.
+
+I received my B.Sc. in Mechatronics engineering (Highest Honours) in July 2014 at the German University in Cairo (Egypt) in which I conducted my thesis at the Institute of Automatic Control (IRT) at RWTH Aachen University (GERMANY).
